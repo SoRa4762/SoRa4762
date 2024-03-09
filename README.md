@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sora4762" alt="sora4762" /></a> </p>
 
+<img align="right" alt="some image" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" />
+
 - 🔭 I’m currently working on [WanderMate](https://github.com/SoRa4762/WanderMate)
 
 - 🌱 I’m currently learning **DotNet**
