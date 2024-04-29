@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sora</h1>
 <h3 align="center">Cloud and AI Enthusiast</h3>
 
+<img src="https://i.gifer.com/J59.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sora4762&label=Profile%20views&color=0e75b6&style=flat" alt="sora4762" /> </p>
 
 <img align="right" alt="some image" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" />
