@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sora</h1>
 <h3 align="center">Cloud and AI Enthusiast</h3>
 
-<img src="https://i.gifer.com/J59.gif" />
+<img style="width:100vw; height:100%" src="https://i.gifer.com/J59.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sora4762&label=Profile%20views&color=0e75b6&style=flat" alt="sora4762" /> </p>
 
