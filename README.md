@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sora</h1>
 <h3 align="center">Cloud and AI Enthusiast</h3>
 
-<img style="width:100vw; height:5vh" src="[https://cdn.dribbble.com/users/121337/screenshots/1024835/loading2.gif](https://i.gifer.com/Vp3L.gif)" alt="loading line" />
+<img style="width:100vw; height:5vh" src="[[https://cdn.dribbble.com/users/121337/screenshots/1024835/loading2.gif](https://i.gifer.com/Vp3L.gif)](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6f027f63393359.5ab4ecb5ebad9.gif)" alt="loading line" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sora4762&label=Profile%20views&color=0e75b6&style=flat" alt="sora4762" /> </p>
 
