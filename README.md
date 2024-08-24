@@ -7,13 +7,13 @@
 
 <img align="right" alt="some image" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" />
 
-- 🔭 I’m currently working on [WanderMate](https://github.com/SoRa4762/WanderMate)
+- 🔭 I’m currently working on [Project-C](https://github.com/SoRa4762/Project-C.git)
 
 - 🌱 I’m currently learning **DotNet**
 
-- 👯 I’m looking to collaborate on [WanderMate](https://github.com/SoRa4762/WanderMate)
+- 👯 I’m looking to collaborate on [Project-C](https://github.com/SoRa4762/Project-C.git)
 
-- 🤝 I’m looking for help with [WanderMate](https://github.com/SoRa4762/WanderMate)
+- 🤝 I’m looking for help with [Project-C](https://github.com/SoRa4762/Project-C.git)
 
 - 👨‍💻 All of my projects are available at [no portfoilo :-(](no portfoilo :-()
 
