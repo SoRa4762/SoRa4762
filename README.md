@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [nothing yet :-(](nothing yet :-()
 
-- ⚡ Fun fact **I think I am a modern day philosopher, very original... I know!**
+- ⚡ Fun fact **I think I am a modern day philosopher, very original... I know! XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
