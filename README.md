@@ -1,42 +1,143 @@
-<h1 align="center">Hi 👋, I'm Sora</h1>
-<h3 align="center">Cloud and AI Enthusiast</h3>
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,14,18&text=SORA&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"
+    alt="Sora — Full-Stack Developer, Cloud and AI Enthusiast"
+  />
 
-<!--<img style="width:100vw; height:5vh" src="[[https://cdn.dribbble.com/users/121337/screenshots/1024835/loading2.gif](https://i.gifer.com/Vp3L.gif)](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6f027f63393359.5ab4ecb5ebad9.gif)" alt="loading line" />-->
+  <p>
+    I turn ideas into thoughtful digital products—from polished interfaces<br />
+    to maintainable backends and cloud-ready systems.
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sora4762&label=Profile%20views&color=0e75b6&style=flat" alt="sora4762" /> </p>
+  <p>
+    <a href="mailto:sonamjungi007@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Connect-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sora" />
+    </a>
+    <a href="https://github.com/SoRa4762?tab=followers">
+      <img src="https://img.shields.io/github/followers/SoRa4762?label=Follow&style=for-the-badge&logo=github&color=181717" alt="Follow Sora on GitHub" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=SoRa4762&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Sora's profile views" />
+  </p>
+</div>
 
-<img align="right" alt="some image" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" />
+---
 
-- 🔭 I’m currently working on [Sentilens](https://github.com/SoRa4762/Sentilens.git)
+## About Me
 
-- 🌱 I’m currently learning **DotNet**
+```typescript
+const sora = {
+  focus: ["Cloud", "Artificial Intelligence", "Full-Stack Engineering"],
+  building: "SentiLens",
+  learning: [".NET", "Clean Architecture", "Cloud-Native Systems"],
+  askMeAbout: ["React", "Next.js", "JavaScript", "TypeScript"],
+  openTo: ["Collaboration", "Open Source", "Interesting Ideas"],
+  philosophy: "Stay curious. Build with purpose. Keep improving."
+};
+```
 
-- 👯 I’m looking to collaborate on [Sentilens](https://github.com/SoRa4762/Sentilens.git)
+- 🔭 Currently building **[SentiLens](https://github.com/SoRa4762/Sentilens)**
+- 🌱 Deepening my knowledge of **.NET, C#, and scalable application architecture**
+- 🤝 Open to collaborating on **full-stack, cloud, and AI-driven projects**
+- 💬 Happy to talk about **React, Next.js, JavaScript, and TypeScript**
+- ⚡ Part developer, part modern-day philosopher—still debugging both code and life
 
-- 🤝 I’m looking for help with [Sentilens](https://github.com/SoRa4762/Sentilens.git)
+---
 
-- 👨‍💻 All of my projects are available at [no portfoilo :-(](no portfoilo :-()
+## Featured Project
 
-- 📝 I regularly write articles on [nothing yet :-(](nothing yet :-()
+### [SentiLens](https://github.com/SoRa4762/Sentilens) · News, understood better
 
-- 💬 Ask me about **React, Next, JS, TS**
+A full-stack news intelligence platform that aggregates articles and helps users explore sentiment across topics. The project combines a modern React interface with a .NET backend organized around clean architecture principles.
 
-- 📫 How to reach me **sonamjungi007@gmail.com**
-
-- 📄 Know about my experiences [nothing yet :-(](nothing yet :-()
-
-- ⚡ Fun fact **I think I am a modern day philosopher, very original... I know! XD**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="https://github.com/SoRa4762/Sentilens">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View SentiLens repository" />
+  </a>
+  <a href="https://github.com/SoRa4762/Sentilens/stargazers">
+    <img src="https://img.shields.io/github/stars/SoRa4762/Sentilens?style=for-the-badge&logo=github&color=F5A623" alt="SentiLens stars" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-7C3AED?style=flat-square)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sora4762&show_icons=true&locale=en&layout=compact" alt="sora4762" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sora4762&show_icons=true&locale=en" alt="sora4762" /></p>
+## Technology Toolbox
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sora4762&" alt="sora4762" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sora4762" alt="sora4762" /></a> </p>
+<div align="center">
+  <h4>Languages · Frontend · Backend</h4>
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,express,html,css,tailwind&theme=dark&perline=11"
+    alt="C Sharp, .NET, JavaScript, TypeScript, React, Next.js, Node.js, Express, HTML, CSS and Tailwind CSS"
+  />
+
+  <h4>Cloud · Data · Tools</h4>
+  <img
+    src="https://skillicons.dev/icons?i=aws,firebase,mongodb,mysql,git,linux,postman,arduino,blender&theme=dark&perline=9"
+    alt="AWS, Firebase, MongoDB, MySQL, Git, Linux, Postman, Arduino and Blender"
+  />
+</div>
+
+---
+
+## GitHub in Numbers
+
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api?username=SoRa4762&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&ring_color=7C3AED"
+    alt="Sora's GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SoRa4762&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
+    alt="Sora's most used languages"
+  />
+</div>
+
+<div align="center">
+  <img
+    width="90%"
+    src="https://streak-stats.demolab.com?user=SoRa4762&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    alt="Sora's GitHub contribution streak"
+  />
+</div>
+
+<div align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SoRa4762&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=22D3EE&area=true&hide_border=true"
+    alt="Sora's contribution activity graph"
+  />
+</div>
+
+---
+
+## Let's Build Something Meaningful
+
+<div align="center">
+  <p>
+    Have an idea, an open-source project, or a problem worth solving?<br />
+    <strong>Let's connect and turn it into something useful.</strong>
+  </p>
+
+  <a href="mailto:sonamjungi007@gmail.com">
+    <img src="https://img.shields.io/badge/Start_a_Conversation-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Start a conversation with Sora" />
+  </a>
+
+  <br /><br />
+
+  <em>“The best systems are not only functional—they are thoughtful.”</em>
+
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,18"
+    alt="Decorative footer"
+  />
+</div>
