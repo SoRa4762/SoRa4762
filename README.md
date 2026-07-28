@@ -1,7 +1,7 @@
 <div align="center">
 <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,14,18&text=SORA&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20and%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1e3d,100:16305c&text=SORA&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20and%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"
     alt="Sora — Full-Stack Developer, Cloud and AI Enthusiast"
   />
 
